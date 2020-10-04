@@ -1,0 +1,28 @@
+{
+  "name": "poc-testcafe",
+  "version": "1.0.0",
+  "description": "poc testcafe",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "testcafe chrome tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isortegahlabs/poc-testcafe.git"
+  },
+  "keywords": [
+    "testcafe"
+  ],
+  "author": "Ivan Sebastian Ortega Huixtlacatl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isortegahlabs/poc-testcafe/issues"
+  },
+  "homepage": "https://github.com/isortegahlabs/poc-testcafe#readme",
+  "devDependencies": {
+    "npx": "^10.2.2",
+    "testcafe": "^1.9.3"
+  }
+}
